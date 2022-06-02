@@ -13,5 +13,5 @@ Can do:
 - clearing the input (C and CE)
 
 Issues:
-- with negative numbers
+- with negative numbers - can output a negative number but for example if the negative number in the calculation in the calc is first (-2+5) it crashes
 - if empty after/before dot (no number) - works but does not add 0 after/before dot

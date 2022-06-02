@@ -2,7 +2,7 @@
 
 ![CalculatorPicture](calc_picture.png)
 
-Can do:
+**Can do**:
 - addition (Finding the Sum; '+') 
 - subtraction (Finding the difference; '-') 
 - multiplication (Finding the product; '×' ) 
@@ -12,6 +12,6 @@ Can do:
 - bound keyboard keys to functions for button press
 - clearing the input (C and CE)
 
-Issues:
+**Issues**:
 - with negative numbers - can output a negative number but for example if the negative number in the calculation in the calc is first (-2+5) it crashes
 - if empty after/before dot (no number) - works but does not add 0 after/before dot
